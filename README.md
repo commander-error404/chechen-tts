@@ -22,7 +22,7 @@ A dedicated, fine-tuned model with significantly better quality is currently in 
 Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/chechen-tts.git
+git clone https://github.com/commander-error404/chechen-tts.git
 cd chechen-tts
 ```
 
